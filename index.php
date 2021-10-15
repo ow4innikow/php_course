@@ -34,5 +34,3 @@ require('posts.php');
 <script src="js/bootstrap.min.js"></script>
 </body>
 </html>
-
-TEST111
